@@ -31,105 +31,109 @@
 		Hilfsprogramm, mit dem die berühmten Adventure-Spiele von LucasArts entwickelt wurden.
 		</simpara>
 		<simpara>
-		Es wurde ursprünglich im Jahre 1987 von Aric Wilmunder und Ron Gilber für
-		das Spiel "Maniac Mansion" entworfen und wurde später, in modifizierter Form,
+		Es wurde ursprünglich im Jahre 1987 von Aric Wilmunder und Ron Gilbert für
+		das Spiel "Maniac Mansion" entworfen und später, in modifizierter Form,
 		für Zak McKracken and the Alien Mindbenders verwendet. Die Entwicklung des SCUMM-
-		Systems wurde für einige Zeit weitergeführt und wurde in Loom, Indiana Jones and
-		the Last Crusade, Indiana Jones and the Fate of Atlantis, Monkey Island
-		1,2,3, Sam &amp; Max Hit the Road, Day of the Tentacle, The Dig und Vollgas
-		(Full Throttle) verwendet.
+		Systems wurde für einige Zeit weitergeführt. Das System wurde auch in Loom,
+		Indiana Jones and the Last Crusade, Indiana Jones and the Fate of Atlantis,
+		Monkey Island 1,2,3, Sam &amp; Max Hit the Road, Day of the Tentacle, The Dig
+		und Vollgas (Full Throttle) verwendet.
 		</simpara>
 	</answer>
     </entry>
     <entry>
       <href/>
-      <question>Is ScummVM free?</question>
+      <question>Ist ScummVM kostenlos?</question>
       <answer>
 		<simpara>
-		ScummVM is released under the <ulink url="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL (General Public
-		License)</ulink>, so it's more than free. ScummVM source code is freely
-		available and you can do whatever you want with it. If you make
-		modifications to it and redistribute your work you MUST make the source
-		available. However, the ScummVM team would be pleased if you choose to
-		send them your modifications, so they can be merged into the main tree.
+		ScummVM wird unter der 
+		<ulink url="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL (General Public
+		License)</ulink> veröffentlicht, es ist also mehr als nur kostenlos.
+		Der Quellcode von ScummVM ist frei verfügbar und Sie dürfen damit machen,
+		was Sie wollen. Wenn Sie das Programm modifizieren und weiterverteilen,
+		dann *müssen* Sie den Quellcode Ihrer Änderungen verfügbar machen.
+		Das ScummVM-Team würde sich freuen, wenn Sie dem Team Ihre Modifikationen
+		einsenden, sodass diese in den Haupt-Entwicklungszweig einfließen können.
 		</simpara>
 	</answer>
     </entry>
     <entry>
       <href/>
-      <question>Where do I find ScummVM?</question>
+      <question>Wo kann ich ScummVM finden?</question>
       <answer>
 		<simpara>
-		You can find it on the download section on our <ulink url="http://www.scummvm.org">web site</ulink>.
-		You can download the latest version, which could be a little old. For the most
-		recent cutting-edge in-development version, you have to compile it yourself from
-		the repository or use the precompiled 'daily builds' linked from our download page.
+		Sie finden es unter dem Menüpunkt "Downloads" auf unserer <ulink url="http://www.scummvm.org">Website</ulink>.
+		Dort können Sie die letzte stabile Version herunterladen, die schon etwas älter sein
+		könnte. Um die aktuellste Entwicklerversion zu erhalten, müssen Sie diese aus unserem
+		Quellcode-Verzeichnis selbst kompilieren oder die fertig gebauten Entwicklerversionen
+		("Daily Builds") nutzen. Beides finden Sie auf unserer Download-Seite.
 		</simpara>
 	</answer>
     </entry>
     <entry>
       <href>question.compiling</href>
-      <question>How do I compile the source code for my OS?</question>
+      <question>Wie kompiliere ich den Quellcode für mein Betriebssystem?</question>
       <answer>
 		<simpara>
-		The source code package contains a file called
-		<ulink url="http://github.com/scummvm/scummvm/blob/master/README">README</ulink>
-		explaining the basics. More detailed information can be found
-		<ulink url="http://wiki.scummvm.org/index.php/Compiling_ScummVM">on our Wiki</ulink>.
+		Das Quellcode-Paket beinhaltet eine Datei mit dem Namen
+		<ulink url="http://github.com/scummvm/scummvm/blob/master/doc/de/Liesmich">Liesmich</ulink>,
+		in welcher die Grundlagen erklärt werden. Ausführliche Informationen finden Sie
+		<ulink url="http://wiki.scummvm.org/index.php/Compiling_ScummVM">in unserem Wiki</ulink>.
 		</simpara>
 	</answer>
     </entry>
     <entry>
       <href>question.supported-platforms</href>
-      <question>On what platform does ScummVM run?</question>
+      <question>Auf welchen Plattformen läuft ScummVM?</question>
       <answer>
 		<simpara>
-		ScummVM should be able to be compiled for any platform supported by
-		<ulink url="http://www.libsdl.org">SDL</ulink>, with just small modifications.
+		ScummVM sollte auf jeder Plattform kompiliert werden können, die von
+		<ulink url="http://www.libsdl.org">SDL</ulink> unterstützt wird. Dabei
+		sollten nur geringe Anpassungen erforderlich sein.
 		</simpara>
 		<simpara>
-		ScummVM runs on a wide variety of platforms, including Win32 (Windows
-		95/98/ME/NT/2000/XP), Linux i386 and PPC, Mac OS X, many smart phones
-		and game consoles and more. It is also part of various BSD ports
-		collections and included in Debian testing and unstable.
+		ScummVM läuft auf einer Vielzahl von Plattformen, darunter Win32 (Windows
+		95/98/ME/NT/2000/XP), Linux i386 und PPC, Mac OS X, vielen Smartphones,
+		Spielekonsolen und mehr. Es ist auch Bestandteil verschiedener BSD-Varianten
+		sowie in den Debian-Varianten "testing" und "unstable" enthalten.
 		</simpara>
 		<simpara>
-		For a more comprehensive overview please take a look at the
-		<ulink url="http://wiki.scummvm.org/index.php/Platforms">platforms list</ulink>
-		in our Wiki.
+		Eine ausführliche Liste finden Sie auf der
+		<ulink url="http://wiki.scummvm.org/index.php/Platforms">Plattform-Liste</ulink>
+		in unserem Wiki.
 		</simpara>
 	</answer>
     </entry>
     <entry>
       <href>question.make-new-games</href>
-      <question>Can I use ScummVM to make new games?</question>
+      <question>Kann ich ScummVM für die Entwicklung neuer Spiele verwenden?</question>
       <answer>
 		<simpara>
-		While it is theoretically possible to write a new game that uses ScummVM
-		it is not advisable. ScummVM has many hacks to support older games and
-		no tools geared towards creating content usable by ScummVM. Potential
-		game authors are encouraged to look at open source technologies such as
-		<ulink url="http://www.libsdl.org">SDL</ulink> for a cross platform
-		multimedia library (also used by ScummVM), and the
-		<ulink url="http://www.lua.org">Lua</ulink> and
-		<ulink url="http://www.python.org">Python</ulink> scripting languages
-		for game logic.
+		Obwohl es theoretisch möglich ist, neue Spiele zu entwicklen, die ScummVM verwenden,
+		ist dies nicht ratsam. ScummVM enthält viele modifikationen, um ältere Spiele zu
+		unterstützen und enthält keine Werkzeuge, die Ihnen dabei helfen könnten,
+		unter ScummVM nutzbare Inhalte zu erstellen. Potenzielle Spiele-Autoren
+		sollten einen Blick auf quelloffene Multimedia-Bibliotheken wie 
+		<ulink url="http://www.libsdl.org">SDL</ulink> (auch verwendet von ScummVM)
+		für die Darstellung sowie auf die Skriptsprachen
+		<ulink url="http://www.lua.org">Lua</ulink> und 
+		<ulink url="http://www.python.org">Python</ulink> für die Spiele-Logik werfen.
 		</simpara>
 	</answer>
     </entry>
   </section>
   <section>
-    <title>Supported games</title>
+    <title>Unterstützte Spiele</title>
     <entry>
       <href>question.supported-games</href>
-      <question>What games does ScummVM support?</question>
+      <question>Welche Spiele werden von ScummVM unterstützt?</question>
       <answer>
 		<simpara>
-		We have a <ulink url="http://www.scummvm.org/compatibility.php">compatibility
-		list</ulink> on our website that contains an up to date list of which
-		games work, and how well they work. Apart from SCUMM games, we now
-		also support quite a few other adventure games. More games may
-		be added, but this is not a common occurrence &#8212; see below.
+		Wir haben eine <ulink url="http://www.scummvm.org/compatibility.php">Kompatibilitätsliste</ulink>
+		auf unserer Webseite, die Informationen darüber enthält, welche Spiele
+		in welchem Umfang unterstützt werden. Neben SCUMM-Spielen unterstützen
+		wir auch ein paar andere Adventure-Spiele. Weitere Spiele werden vielleicht
+		noch hinzugefügt, dies kommt jedoch nicht besonders häufig vor &#8212; siehe unten.
 		</simpara>
 	</answer>
     </entry>
