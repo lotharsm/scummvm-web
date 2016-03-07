@@ -16,15 +16,15 @@
 			</div>
 		</div>
 		<div class="rbcontent">
-			<a href="screenshots/{$random_shot.category}/{$random_shot.screenshot->getCategory()}/{$rand_pos+1}" id="screenshots_random">
+			<a href="/screenshots/{$random_shot.category}/{$random_shot.screenshot->getCategory()}/{$rand_pos+1}" id="screenshots_random">
 				<img src="{$smarty.const.DIR_SCREENSHOTS}/{$rand_file.filename}.jpg" width="128" height="96" title={#intoHeaderFullsize#} alt="{#introHeaderRandom#}">
 			</a>
 		</div>
 		<div class="rbbot">
 			<div>
 				<p>
-					<a href="screenshots/" id="screenshots_prev">{#introHeaderPrevShot#}</a>
-					<a href="screenshots/" id="screenshots_next">{#introHeaderNextShot#}</a>
+					<a href="/screenshots/" id="screenshots_prev">{#introHeaderPrevShot#}</a>
+					<a href="/screenshots/" id="screenshots_next">{#introHeaderNextShot#}</a>
 				</p>
 			</div>
 		</div>
@@ -52,6 +52,15 @@
 				</p>
 				<p>
 					{#introHeaderContentP4#}
+				</p>
+				<p>
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="U6E6SLL7E8MAS">
+						<input type="image" src="/images/ppdonate.png" width="63" height="25" align="right" border="0" name="submit" alt="{#indexSupport#}">
+						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+					</form>
+					{#introHeaderContentP5#}
 				</p>
 			</div>
 		</div>

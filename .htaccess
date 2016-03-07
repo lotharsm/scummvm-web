@@ -10,6 +10,29 @@ RewriteCond     %{QUERY_STRING}                                             lang
 RewriteRule     .*                                                           -  [CO=lang:%1:.scummvm.org]
 
 ##
+# We moved screenshots, fixing the links
+##
+RewriteRule		^screenshots/scummvm_([0-9]+).png$							data/screenshots/old/scummvm_$1.png [L]
+RewriteRule		^screenshots/scummvm_([0-9]+).jpg$							data/screenshots/old/scummvm_$1.jpg [L]
+RewriteRule		^(?:data/)?screenshots/other/(sword/.*)$					data/screenshots/revolution/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(sky/.*)$						data/screenshots/revolution/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(lure/.*)$						data/screenshots/revolution/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(simon/.*)$					data/screenshots/agos/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(feeble/.*)$					data/screenshots/agos/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(kyra/.*)$						data/screenshots/westwood/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(gob/.*)$						data/screenshots/gob/$1 [L]
+RewriteRule		^(?:data/)?screenshots/other/(bargon/.*)$					data/screenshots/gob/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_0_5.jpg)$							data/screenshots/lec/maniac/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_2_2.jpg)$							data/screenshots/lec/indy3/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_3_1.jpg)$							data/screenshots/lec/atlantis/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_5_2.jpg)$							data/screenshots/lec/monkey2/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_7_0.jpg)$							data/screenshots/lec/samnmax/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_8_1.jpg)$							data/screenshots/lec/tentacle/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_9_.*)$								data/screenshots/lec/ft/$1 [L]
+RewriteRule		^screenshots/(scummvm_0_11_2.jpg)$							data/screenshots/lec/comi/$1 [L]
+RewriteRule		^screenshots/(scummvm_2_5_1.jpg)$							data/screenshots/revolution/sky/$1 [L]
+
+##
 # Images linked directly from the wiki need to work
 ##
 RewriteRule		^screenshots/(.+)\.(jpg|png)$								data/screenshots/$1.$2 [NS,L]
@@ -36,29 +59,29 @@ RewriteRule	^(.+)\.php$														$1/? [NS,R=301]
 ##
 # Basic rewrite
 ##
-RewriteRule		^([a-z]+)/?$												?p=$1
+RewriteRule		^([a-z]+)/?$												?p=$1 [QSA]
 
 ##
 # Compatibility
 ##
-RewriteRule		^(compatibility)(/(DEV|[0-9\.rc]+)(/([^/]+))?)?/?$			?p=$1&v=$3&t=$5 [L]
+RewriteRule		^(compatibility)(/(DEV|[0-9\.rc]+)(/([^/]+))?)?/?$			?p=$1&v=$3&t=$5 [L,QSA]
 
 ##
 # Documentation
 ##
-RewriteRule		^(documentation)(/([^/]+))?/? 								?p=$1&d=$3 [L]
+RewriteRule		^(documentation)(/([^/]+))?/? 								?p=$1&d=$3 [L,QSA]
 
 ##
 # Feeds
 ##
-RewriteRule		^(feeds)/(atom|rss)/?										?p=$1&f=$2 [L]
+RewriteRule		^(feeds)/(atom|rss)/?										?p=$1&f=$2 [L,QSA]
 
 ##
 # News
 ##
-RewriteRule		^(news)(/([0-9]{8}[a-z]?|archive))?/?$							?p=$1&d=$3 [L]
+RewriteRule		^(news)(/([0-9]{8}[a-z]?|archive))?/?$							?p=$1&d=$3 [L,QSA]
 
 ##
 # Screenshots
 ##
-RewriteRule		^(screenshots)(/([a-z]+)(/([-_a-z0-9]+)(/([0-9]+))?)?)?/?		?p=$1&cat=$3&game=$5&num=$7 [L]
+RewriteRule		^(screenshots)(/([a-z]+)(/([-_a-z0-9]+)(/([0-9]+))?)?)?/?		?p=$1&cat=$3&game=$5&num=$7 [L,QSA]
