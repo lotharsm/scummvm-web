@@ -876,7 +876,7 @@
 				</notes>
 			</game>
 			<game>
-				<name>Broken Sword: The return of the Templars</name>
+				<name>Broken Sword 2.5: The Return of the Templars</name>
 				<target>sword25</target>
 				<support_level>untested</support_level>
 				<notes>
@@ -1041,6 +1041,22 @@
 				<support_level>untested</support_level>
 				<notes>
 					Game has been recently supported and requires further play testing.<h:br />- DOS versions are supported by this target<h:br />- No speech synthesis
+				</notes>
+			</game>
+			<game>
+				<name>Myst</name>
+				<target>myst</target>
+				<support_level>untested</support_level>
+				<notes>
+					Support for this game has been added recently and requires further play testing.<h:br />- Only the Windows version is supported
+				</notes>
+			</game>
+			<game>
+				<name>Myst: Masterpiece Edition</name>
+				<target>myst</target>
+				<support_level>untested</support_level>
+				<notes>
+					Support for this game has been added recently and requires further play testing.<h:br />- Only the Windows version is supported<h:br />- The hint system is not available
 				</notes>
 			</game>
 			<game>

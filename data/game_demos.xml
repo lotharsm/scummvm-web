@@ -85,7 +85,7 @@
 				<target>loom</target>
 			</demo>
 			<demo>
-				<name>Maniac Mansion (Commodore 64 demo) - Requires ScummVM 1.8.0git</name>
+				<name>Maniac Mansion (Commodore 64 demo)</name>
 				<url>/frs/demos/scumm/maniac-c64-demo-en.zip</url>
 				<target>maniac</target>
 			</demo>
@@ -1571,6 +1571,11 @@
 			<demo>
 				<name>Flight of the Amazon Queen (DOS demo)</name>
 				<url>/frs/demos/queen/queen-dos-demo-en.zip</url>
+				<target>queen</target>
+			</demo>
+			<demo>
+				<name>Flight of the Amazon Queen (DOS alternative demo)</name>
+				<url>/frs/demos/queen/queen-dos-demo-en-alt.zip</url>
 				<target>queen</target>
 			</demo>
 			<demo>
