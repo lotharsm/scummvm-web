@@ -31,7 +31,7 @@
     "contactForumsHeader": "Foros",
     "contactForums": "Ofrecemos distintos [foros](https://forums.scummvm.org/). Acude al [Foro de ayuda y soporte](https://forums.scummvm.org/viewforum.php?f=2) si encuentras problemas usando ScummVM. El foro [Conversación general](https://forums.scummvm.org/viewforum.php?f=1) es, como su nombre sugiere, para conversaciones de carácter general y cualquier otro asunto relacionado con ScummVM. También existen algunos foros específicos para algunas plataformas y [La chatarrería](http://forums.scummvm.org/viewforum.php?f=8).\n\n**No olvides leer las [reglas de los foros](https://forums.scummvm.org/viewtopic.php?t=17) antes de escribir en ellos por primera vez.**",
     "contactTrackersHeader": "Informe de fallos, solicitud de mejoras, parches",
-    "contactTrackers": "Si crees que has encontrado un fallo, echa un vistazo a nuestro [gestor de fallos](https://bugs.scummvm.org/). Quizá ya se haya registrado un error similar y puedas dejar un comentario en el informe ya existente. En caso contrario puedes crear un nuevo informe, pero, por favor, **lee con detenimiento las instrucciones dadas en el formulario del informe**. Y por supuesto, síguelas :-)\n\nLas solicitudes de mejoras van en nuestro [gestor de mejoras](https://bugs.scummvm.org/report/11) (de nuevo, por favor, verifica si algo similar ha sido ya solicitado).\n\nPor último, si has realizado alguna modificación del código fuente de ScummVM y quieres verlo incluido en la rama principal, puedes realizar un «Pull Request» en nuestra [página de github](https://github.com/scummvm/scummvm/pulls).",
+    "contactTrackers": "Si crees que has encontrado un fallo, echa un vistazo a nuestro [gestor de fallos](https://bugs.scummvm.org/). Quizá ya se haya registrado un error similar y puedas dejar un comentario en el informe ya existente. En caso contrario puedes crear un nuevo informe, pero, por favor, **lee con detenimiento las instrucciones dadas en el formulario del informe**. Y por supuesto, síguelas :-)\n\nLas solicitudes de mejoras van en nuestro [gestor de mejoras](https://bugs.scummvm.org/report/11) (de nuevo, por favor, verifica si algo similar ha sido ya solicitado).\n\nPor último, si has realizado alguna modificación del código fuente de ScummVM y quieres verlo incluido en la rama principal, puedes realizar un *Pull Request* en nuestra [página de github](https://github.com/scummvm/scummvm/pulls).",
     "contactListsHeader": "Listas de correo",
     "contactLists": "Existen tres [listas de correo](http://lists.scummvm.org/) relacionadas con ScummVM. En la lista scummvm-devel solo se pueden enviar correos.",
     "creditsTitle": "Créditos",
@@ -42,7 +42,7 @@
     "downloadsContentTitle": "Descargar ScummVM",
     "downloadsHeader": "Navegación",
     "downloadsContentP1": "Si tienes uno de los sistemas soportados, puedes descargar directamente la distribución con los binarios correspondientes. Si tienes otro sistema, descarga el código fuente y lee [Compilando ScummVM](http://wiki.scummvm.org/index.php/Compiling_ScummVM) en nuestra Wiki para conocer los pasos para compilar ScummVM. Si has convertido con éxito ScummVM a otra plataforma no listada, déjanos una nota indicando el S.O., etc.",
-    "downloadsContentP2": "La última edición ESTABLE de ScummVM es {release} y puedes descargarla en la sección [Binarios](/downloads/#release). Si utilizas Windows y tienes dudas, descarga «Windows Installer» (el instalador para Windows).",
+    "downloadsContentP2": "La última edición ESTABLE de ScummVM es {release} y puedes descargarla en la sección [Binarios](/downloads/#release). Si utilizas Windows y tienes dudas, descarga \"Windows Installer\" (el instalador para Windows).",
     "downloadsContentP3": "Las versiones experimentales o INESTABLES de ScummVM (para aquellos que saben lo que hacen) están disponibles en la sección [Compilaciones diarias](/downloads/#daily), cerca del final de esta página.",
     "downloadsBadge": "Descarga recomendada para tu sistema",
     "downloadsXMLTitle": "Descargas de ScummVM",
@@ -176,7 +176,7 @@
     "downloadsDailyNote3": "Abre el historial de cambios (en inglés) para ver las últimas novedades de ScummVM.",
     "compatibilityDetailsDetails": "Más información",
     "downloadsBadgeTitle": "Descargar ScummVM {version}",
-    "menuMainFreewareGames": "Juegos y complementos «freeware»",
+    "menuMainFreewareGames": "Juegos y complementos freeware",
     "compatibilityDetailsChartColScummVmId": "ID de ScummVM",
     "menuMainDumper": "Asistente de volcado"
 }
