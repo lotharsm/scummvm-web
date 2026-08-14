@@ -20,10 +20,10 @@
     "erusev/parsedown": "^1.8",
     "phpfastcache/phpfastcache": "^9.2",
     "league/csv": "^9.28",
-    "symfony/yaml": "^7.3",
-    "predis/predis": "^3.5",
-    "guzzlehttp/guzzle": "^8.0",
-    "propel/propel": "~2.0@dev"
+    "symfony/yaml": "^7.4",
+    "predis/predis": "^3.6",
+    "guzzlehttp/guzzle": "^8.1",
+    "propel/propel": "^2.0"
   },
   "config": {
     "platform": {
@@ -63,7 +63,7 @@
     ],
     "start": [
       "Composer\\Config::disableProcessTimeout",
-      "php -S localhost:8000 -t ./public_html ./public_html/index.php"
+      "php -S 10.248.208.223:8000 -t ./public_html ./public_html/index.php"
     ],
     "develop": [
       "@build-dev",
