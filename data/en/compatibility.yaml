@@ -5956,3 +5956,24 @@
     since_version: DEV
     stable_platforms: 'dos,win,mac'
     unstable_platforms: psx
+-
+    id: 'mads:dragonsphere'
+    support: untested
+    notes: ''
+    since_version: DEV
+    stable_platforms: dos
+    unstable_platforms: ''
+-
+    id: 'mads:phantom'
+    support: untested
+    notes: ''
+    since_version: DEV
+    stable_platforms: dos
+    unstable_platforms: ''
+-
+    id: 'mads:forest'
+    support: untested
+    notes: ''
+    since_version: DEV
+    stable_platforms: dos
+    unstable_platforms: ''

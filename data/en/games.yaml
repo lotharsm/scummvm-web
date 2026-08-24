@@ -9702,6 +9702,20 @@
     wikipedia_page: Return_of_the_Phantom
     series_id: ''
 -
+    id: 'mads:forest'
+    name: 'Once Upon a Forest'
+    engine_id: mads
+    company_id: sanctuary
+    year: '1995'
+    moby_id: '49941'
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: Once_Upon_a_Forest
+    series_id: ''
+-
     id: 'mm:mm1'
     name: 'Might and Magic: Book One - Secret of the Inner Sanctum'
     engine_id: mm
