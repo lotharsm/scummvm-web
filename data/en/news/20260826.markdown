@@ -1,0 +1,20 @@
+---
+title: "It's a MADS, MADS, MADS, MADS World"
+author: DreamMaster
+date: 1787709600
+---
+A self-centered starship pilot marooned on a planet of women. A kingdom under threat from an evil enchanter. A sinister plot at the opera. And a desperate search for an antidote.
+
+After all these years, the ScummVM Team is pleased to finally announce support for all four MADS games:
+* Rex Nebular and the Cosmic Gender Bender - DOS (re-implementation)
+* Rex Nebular and the Cosmic Gender Bender - Macintosh (some features missing, but should be completeable).
+* Rex Nebular and the Cosmic Gender Bender - Bonus Disk.
+* Return of the Phantom - DOS
+* Dragonsphere - DOS
+* Once Upon a Forest - DOS
+
+Special thanks go out to the kind historical donation of partial sources to the team that made this release possible. Rex Nebular in particular, whilst previously supported, has been significantly refactored to use the updated engine core and naming conventions of the other games, so it may be considered an entirely new release. We've already confirmed that some long-standing bugs in the previous implementation have now been fixed. Experimental support has also been added for the Macintosh version of Rex Nebular, as well as the amusing bonus disk collection of content.  Finally, Roland MT32 support has also been added, though it’s currently a work in progress, and not officially part of this initial testing. But for those of you who have been looking forward to it, you'll have it soon. In the meantime, support for the original PC Speaker sounds has also been added for your listening enjoyment :)
+
+Help us test the games by grabbing a [daily build](https://scummvm.org/downloads/#daily). Read through our [testing guidelines](https://wiki.scummvm.org/index.php/Release_Testing#Testing_Guidelines). And please take some [screenshots](https://wiki.scummvm.org/index.php/Screenshots) along the way.
+
+The games offer a good range of content, from the mild NSFW of Rex Nebular, the mystery of Return of the Phantom, classic fantasy of Dragonsphere, or the child-friendly simplicity of Once Upon a Forest. Which one will you play first?
