@@ -114,13 +114,16 @@ class LocalizationUtils
             // Update the base english l10n file
             echo("Converting English Markdown files to the l10n base file\n");
             $news = self::getAllNews($lang);
-
             file_put_contents(
                 $newsFile,
                 \str_replace(
                     '\r\n',
                     '\n',
-                    json_encode($news, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES |  JSON_UNESCAPED_UNICODE) . "\n"
+                    json_encode(
+                        $news,
+                        JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES |
+                        JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR
+                    ) . "\n"
                 )
             );
         }
