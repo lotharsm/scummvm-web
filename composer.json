@@ -63,7 +63,7 @@
     ],
     "start": [
       "Composer\\Config::disableProcessTimeout",
-      "php -S 10.248.208.223:8000 -t ./public_html ./public_html/index.php"
+      "@php -S localhost:8000 -t ./public_html ./public_html/index.php"
     ],
     "develop": [
       "@build-dev",
