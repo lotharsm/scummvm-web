@@ -70,7 +70,7 @@
       "@start"
     ],
     "lint": [
-      "phpcbf --standard=psr2 --ignore=./include/OrmObjects/Base,./include/OrmObjects/Map ./include ./stubs public_html/index.php",
+      "phpcbf --standard=psr2 --ignore=./include/OrmObjects/Base,./include/OrmObjects/Map ./include ./stubs public_html/index.php || true",
       "phpcs  --standard=psr2 --ignore=./include/OrmObjects/Base,./include/OrmObjects/Map ./include ./stubs public_html/index.php",
       "phpstan"
     ],
