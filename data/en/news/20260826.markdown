@@ -3,6 +3,9 @@ title: "It's a MADS, MADS, MADS, MADS World"
 author: DreamMaster
 date: 1788582042
 ---
+
+![Screenshot of Rex Nebular and the Cosmic Gender Bender (DOS/English)](https://www.scummvm.org/data/screenshots/mads/nebular/nebular_dos_en_1_13.jpg)
+
 A self-centered starship pilot marooned on a planet of women. A kingdom under threat from an evil enchanter. A sinister plot at the opera. And a desperate search for an antidote.
 
 After all these years, the ScummVM Team is pleased to finally announce support for all four MADS games:
