@@ -388,6 +388,10 @@
     name: 'Thinking of Cremation?'
     alt_name: ''
 -
+    id: creobit
+    name: Creobit
+    alt_name: ''
+-
     id: croqueta
     name: 'Croqueta Asesina Studios'
     alt_name: ''
@@ -426,6 +430,10 @@
 -
     id: daedalic
     name: 'Daedalic Entertainment'
+    alt_name: ''
+-
+    id: damian
+    name: Damian
     alt_name: ''
 -
     id: danvzare
@@ -616,6 +624,10 @@
     name: 'Videojuegos Fermín'
     alt_name: ''
 -
+    id: fireside7games
+    name: 'Fireside 7 Games'
+    alt_name: ''
+-
     id: firstlight
     name: Firstlight
     alt_name: ''
@@ -662,6 +674,10 @@
 -
     id: frostlind
     name: 'Frostlind Games'
+    alt_name: ''
+-
+    id: fskstudios
+    name: 'FSk Studios'
     alt_name: ''
 -
     id: ftl
@@ -884,6 +900,14 @@
     name: 'Ivan Ulyanov'
     alt_name: ''
 -
+    id: jackslawed
+    name: Jackslawed
+    alt_name: ''
+-
+    id: javierhermandez
+    name: 'Javier Hernández'
+    alt_name: ''
+-
     id: jbclerfayt
     name: 'Jean-Baptiste de Clerfayt'
     alt_name: ''
@@ -896,6 +920,10 @@
     name: 'Jennifer McMurray'
     alt_name: JennyBee
 -
+    id: jesperolson
+    name: 'Jesper Olofsson, Robin Hjelte'
+    alt_name: ''
+-
     id: jminamata
     name: 'Julia Minamata'
     alt_name: ''
@@ -903,6 +931,10 @@
     id: jnuen
     name: 'Joshua Nuernberger'
     alt_name: TheJBurger
+-
+    id: jwk
+    name: 'JWK Soft'
+    alt_name: ''
 -
     id: kdlab
     name: 'K-D Lab'
@@ -940,8 +972,16 @@
     name: 'Lace Mamba Global'
     alt_name: ''
 -
+    id: lajaraventuras
+    name: 'La Jara Aventuras'
+    alt_name: ''
+-
     id: lankhor
     name: Lankhor
+    alt_name: ''
+-
+    id: lazygames
+    name: 'Lazy Games'
     alt_name: ''
 -
     id: lazysquirrel
@@ -978,6 +1018,10 @@
 -
     id: lkavalon
     name: "L.K.\_Avalon"
+    alt_name: ''
+-
+    id: lleans
+    name: 'Lleans Studio'
     alt_name: ''
 -
     id: lngames
@@ -1054,6 +1098,10 @@
 -
     id: mdna
     name: 'MDNA Games'
+    alt_name: ''
+-
+    id: megalithic
+    name: 'Megalithic Mainframe'
     alt_name: ''
 -
     id: merit
@@ -1216,6 +1264,10 @@
     name: 'Orbis Tertius Games'
     alt_name: ''
 -
+    id: origames
+    name: 'Origames Studio'
+    alt_name: ''
+-
     id: origami
     name: 'OrigamiHero Games'
     alt_name: 'Fallen Angel'
@@ -1326,6 +1378,10 @@
 -
     id: pyrodactyl
     name: 'Pyrodactyl Games'
+    alt_name: ''
+-
+    id: quarantine
+    name: 'Quarantine Interactive'
     alt_name: ''
 -
     id: raecreation
@@ -1476,8 +1532,16 @@
     name: SkyGoblin
     alt_name: ''
 -
+    id: skymill
+    name: SkyMill
+    alt_name: ''
+-
     id: smokingcar
     name: 'Smoking Car Productions'
+    alt_name: ''
+-
+    id: spline
+    name: SPLine
     alt_name: ''
 -
     id: socko
@@ -1522,6 +1586,10 @@
 -
     id: stonespring
     name: 'Stone Spring Studios'
+    alt_name: ''
+-
+    id: stormfront
+    name: 'Stormfront Studios'
     alt_name: ''
 -
     id: stranga

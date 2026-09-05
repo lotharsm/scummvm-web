@@ -1800,6 +1800,24 @@
     language: en
     variant_id: '1'
 -
+    id: 'mads:dragonsphere'
+    variant: ''
+    platform_id: dos
+    language: en
+    variant_id: '1'
+-
+    id: 'mads:forest'
+    variant: ''
+    platform_id: dos
+    language: en
+    variant_id: '1'
+-
+    id: 'mads:phantom'
+    variant: ''
+    platform_id: dos
+    language: en
+    variant_id: '1'
+-
     id: 'mm:cloudsofxeen'
     variant: ''
     platform_id: dos

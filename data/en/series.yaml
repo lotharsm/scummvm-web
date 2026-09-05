@@ -108,6 +108,9 @@
     id: dw
     name: Discworld
 -
+    id: eem
+    name: 'Eagle Eye Mysteries'
+-
     id: ecoquest
     name: EcoQuest
 -

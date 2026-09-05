@@ -170,6 +170,11 @@
     alt_name: ''
     enabled: true
 -
+    id: eem
+    name: 'Eagle Eye Mysteries'
+    alt_name: ''
+    enabled: false
+-
     id: efh
     name: 'Escape From Hell'
     alt_name: ''

@@ -7728,6 +7728,34 @@
     wikipedia_page: DreamWeb
     series_id: ''
 -
+    id: 'eem:eem1'
+    name: 'Eagle Eye Mysteries'
+    engine_id: eem
+    company_id: stormfront
+    year: '1993'
+    moby_id: '14171'
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: Eagle_Eye_Mysteries
+    wikipedia_page: Eagle_Eye_Mysteries
+    series_id: eem
+-
+    id: 'eem:eem2'
+    name: 'Eagle Eye Mysteries In London'
+    engine_id: eem
+    company_id: stormfront
+    year: '1994'
+    moby_id: '19256'
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: Eagle_Eye_Mysteries_in_London
+    wikipedia_page: Eagle_Eye_Mysteries
+    series_id: eem
+-
     id: 'efh:efh'
     name: 'Escape From Hell'
     engine_id: efh
@@ -14434,6 +14462,20 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:8squares'
+    name: 'Eight Squares in The Garden'
+    engine_id: wintermute
+    company_id: fireside7games
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:actualdest'
     name: 'Actual Destination'
     engine_id: wintermute
@@ -14504,6 +14546,20 @@
     wikipedia_page: ''
     series_id: alimardan
 -
+    id: 'wintermute:alone'
+    name: 'Alone, Under Strange Night'
+    engine_id: wintermute
+    company_id: fskstudios
+    year: '2008'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:alphapolaris'
     name: 'Alpha Polaris'
     engine_id: wintermute
@@ -14546,6 +14602,48 @@
     wikipedia_page: 'Art_of_Murder:_FBI_Confidential'
     series_id: artmurder
 -
+    id: 'wintermute:awakening'
+    name: 'Awakening: Burning Ashes'
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:barbapoca1'
+    name: 'El Engaño de Barbapoca: Capítulo 1 - Esta Pizza Está de Muerte'
+    engine_id: wintermute
+    company_id: lajaraventuras
+    year: '2010'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:barbapoca2'
+    name: 'El Engaño de Barbapoca: Capítulo 2 - Competencia Fantasmal'
+    engine_id: wintermute
+    company_id: lajaraventuras
+    year: '2013'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:barrowhilldp'
     name: 'Barrow Hill: The Dark Path'
     engine_id: wintermute
@@ -14585,6 +14683,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Bickadoodle
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:bookmania'
+    name: Bookmania
+    engine_id: wintermute
+    company_id: offstudio
+    year: '2011'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -14798,6 +14910,20 @@
     wikipedia_page: Carol_Reed_Mysteries
     series_id: carol
 -
+    id: 'wintermute:chaos'
+    name: Chaos
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:chivalry'
     name: 'Chivalry is Not Dead'
     engine_id: wintermute
@@ -14809,6 +14935,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Chivalry_is_NOT_Dead
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:colapso'
+    name: 'Colapso: Episode 1'
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -14867,6 +15007,20 @@
     datafiles: ''
     wikipedia_page: 'Dark_Fall:_Lost_Souls'
     series_id: darkfall
+-
+    id: 'wintermute:darksummer'
+    name: 'Twilight: Dark Summer'
+    engine_id: wintermute
+    company_id: rskent
+    year: '2019'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
 -
     id: 'wintermute:deadcity'
     name: 'Dead City'
@@ -14977,6 +15131,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Des_Rêves_Élastiques_Avec_Mille_Insectes_Nommés_Georges
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:dreams'
+    name: Dreams
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15148,6 +15316,20 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:fred'
+    name: Fred
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:ghostsheet'
     name: 'Ghost in the Sheet'
     engine_id: wintermute
@@ -15173,6 +15355,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: The_Golden_Calf
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:guttenburg'
+    name: 'The Guttenburg Project'
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15218,6 +15414,34 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:idiotstale'
+    name: "The Idiot's Tale"
+    engine_id: wintermute
+    company_id: megalithic
+    year: '2018'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:imustkill'
+    name: 'I Must Kill...: Fresh Meat '
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:jamesperis'
     name: 'James Peris: No License Nor Control'
     engine_id: wintermute
@@ -15225,6 +15449,20 @@
     year: '2012'
     moby_id: '227509'
     steam_id: '1243010'
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:jamesperis2'
+    name: 'James Peris 2: The Fountain of Eternal Drunkenness'
+    engine_id: wintermute
+    company_id: pavo
+    year: '2022'
+    moby_id: ''
+    steam_id: ''
     gog_id: ''
     zoom_id: ''
     additional_stores: ''
@@ -15274,6 +15512,34 @@
     wikipedia_page: ''
     series_id: julia
 -
+    id: 'wintermute:keshaskazok'
+    name: 'Kesha in the World of Fairy Tales'
+    engine_id: wintermute
+    company_id: origames
+    year: '2006'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:klaymen1'
+    name: 'Klaymen Episodes'
+    engine_id: wintermute
+    company_id: mif2000
+    year: '2008'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:knossos'
     name: "K'NOSSOS"
     engine_id: wintermute
@@ -15299,6 +15565,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Kulivočko
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:leyendabiblio'
+    name: 'La Leyenda de la Biblioteca'
+    engine_id: wintermute
+    company_id: jwk
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15341,6 +15621,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Looky_-_The_Adventure
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:lostbride'
+    name: 'The Tale of The Lost Bride and A Hidden Treasure'
+    engine_id: wintermute
+    company_id: lazygames
+    year: '2011'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15414,6 +15708,20 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:miskatonic1'
+    name: 'Miskatonic - Part One: The Inhuman Stain'
+    engine_id: wintermute
+    company_id: jackslawed
+    year: '2011'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:msos'
     name: 'Monday Starts on Saturday'
     engine_id: wintermute
@@ -15425,6 +15733,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Monday_Starts_on_Saturday
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:mukhtar'
+    name: 'Mukhtar and his Team'
+    engine_id: wintermute
+    company_id: creativedream
+    year: '2012'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15442,6 +15764,34 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:mystictriddle'
+    name: 'Mystic Triddle'
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:nightinthefog'
+    name: 'Night in the Fog'
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:nighttrain'
     name: 'Night Train'
     engine_id: wintermute
@@ -15453,6 +15803,34 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Night_Train
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:nosebound'
+    name: 'Nose Bound - Episode 1'
+    engine_id: wintermute
+    company_id: quarantine
+    year: '2024'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:octave'
+    name: Octave
+    engine_id: wintermute
+    company_id: anate
+    year: '2010'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15512,6 +15890,20 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:operacionbomba'
+    name: 'Operación: Bomba'
+    engine_id: wintermute
+    company_id: javierhermandez
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:paintaria'
     name: Paintaria
     engine_id: wintermute
@@ -15532,6 +15924,20 @@
     company_id: unknown
     year: '2008'
     moby_id: '-1'
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:pangea'
+    name: 'Pangea 1/2'
+    engine_id: wintermute
+    company_id: lleans
+    year: '2009'
+    moby_id: ''
     steam_id: ''
     gog_id: ''
     zoom_id: ''
@@ -15567,6 +15973,20 @@
     datafiles: Papa%27s_Daughters_2
     wikipedia_page: ''
     series_id: papas
+-
+    id: 'wintermute:petka02'
+    name: 'Red Comrades 0.2: Operation F.'
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
 -
     id: 'wintermute:pigeons'
     name: 'Pigeons in the Park'
@@ -15607,6 +16027,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: Pole_Chudes
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:preciouspills'
+    name: 'Precious Pills, Blasting Bacon and Mowing Minds'
+    engine_id: wintermute
+    company_id: jesperolson
+    year: '2012'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15750,6 +16184,34 @@
     wikipedia_page: 'https://de.wikipedia.org/wiki/1%C2%BD_Ritter_–_Auf_der_Suche_nach_der_hinreißenden_Herzelinde'
     series_id: ''
 -
+    id: 'wintermute:roadsantiago'
+    name: 'The Road to Santiago'
+    engine_id: wintermute
+    company_id: javierhermandez
+    year: '2008'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:royalmahjong'
+    name: "Royal Mahjong: King's Journey"
+    engine_id: wintermute
+    company_id: creobit
+    year: '2022'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:rosemary'
     name: Rosemary
     engine_id: wintermute
@@ -15806,6 +16268,34 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:shadowofnebula'
+    name: 'Shadow Of Nebula'
+    engine_id: wintermute
+    company_id: damian
+    year: '2016'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:shelter'
+    name: Shelter
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:shinestar'
     name: 'The Shine of a Star'
     engine_id: wintermute
@@ -15817,6 +16307,34 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: The_Shine_of_a_Star
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:sof1'
+    name: 'A Stroke of Fate: Operation Valkyrie'
+    engine_id: wintermute
+    company_id: spline
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:sof2'
+    name: 'A Stroke of Fate: Operation Bunker'
+    engine_id: wintermute
+    company_id: spline
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
@@ -15890,12 +16408,68 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:strangechange'
+    name: 'Strange Change'
+    engine_id: wintermute
+    company_id: fireside7games
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:sunny'
+    name: Sunny
+    engine_id: wintermute
+    company_id: unknown
+    year: ''
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:sunrise'
     name: 'Sunrise: The Game'
     engine_id: wintermute
     company_id: tmlediton
     year: '2008'
     moby_id: '44658'
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:susanrose1'
+    name: 'Susan Rose: Mysterious Child'
+    engine_id: wintermute
+    company_id: creativedream
+    year: '2009'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:susanrose2'
+    name: 'Susan Rose: Delicate Murder'
+    engine_id: wintermute
+    company_id: creativedream
+    year: '2010'
+    moby_id: ''
     steam_id: ''
     gog_id: ''
     zoom_id: ''
@@ -15959,6 +16533,20 @@
     datafiles: ''
     wikipedia_page: ''
     series_id: tehran
+-
+    id: 'wintermute:tetriks'
+    name: TeTRIks
+    engine_id: wintermute
+    company_id: nihilis
+    year: '2004'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
 -
     id: 'wintermute:theancientmark1'
     name: 'The Ancient Mark - Episode 1'
@@ -16044,6 +16632,20 @@
     wikipedia_page: ''
     series_id: ''
 -
+    id: 'wintermute:todaymama'
+    name: 'Today, Mama!'
+    engine_id: wintermute
+    company_id: skymill
+    year: '2008'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
+    wikipedia_page: ''
+    series_id: ''
+-
     id: 'wintermute:tradestory'
     name: 'The Trader of Stories'
     engine_id: wintermute
@@ -16097,6 +16699,20 @@
     zoom_id: ''
     additional_stores: ''
     datafiles: War
+    wikipedia_page: ''
+    series_id: ''
+-
+    id: 'wintermute:wayoflove'
+    name: 'The Way Of Love: Sub Zero'
+    engine_id: wintermute
+    company_id: rskent
+    year: '2017'
+    moby_id: ''
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: ''
     wikipedia_page: ''
     series_id: ''
 -
