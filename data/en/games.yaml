@@ -9576,6 +9576,20 @@
     wikipedia_page: 'Ripley%27s_Believe_It_or_Not!:_The_Riddle_of_Master_Lu'
     series_id: ''
 -
+    id: 'macs2:sis'
+    name: 'Treasure of the Silver Lake'
+    engine_id: macs2
+    company_id: linel
+    year: '1993'
+    moby_id: '5810'
+    steam_id: ''
+    gog_id: ''
+    zoom_id: ''
+    additional_stores: ''
+    datafiles: Der_Schatz_im_Silbersee
+    wikipedia_page: Treasure_of_Silver_Lake
+    series_id: ''
+-
     id: 'macventure:deja_vu'
     name: 'Deja Vu: A Nightmare Comes True!!'
     engine_id: macventure

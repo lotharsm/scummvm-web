@@ -1752,6 +1752,30 @@
     language: en
     variant_id: '1'
 -
+    id: 'macventure:deja_vu'
+    variant: ''
+    platform_id: mac
+    language: en
+    variant_id: '1'
+-
+    id: 'macventure:deja_vu2'
+    variant: ''
+    platform_id: mac
+    language: en
+    variant_id: '1'
+-
+    id: 'macventure:shadowgate'
+    variant: ''
+    platform_id: mac
+    language: en
+    variant_id: '1'
+-
+    id: 'macventure:uninvited'
+    variant: ''
+    platform_id: mac
+    language: en
+    variant_id: '1'
+-
     id: 'made:lgop2'
     variant: ''
     platform_id: dos

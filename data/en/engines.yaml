@@ -310,6 +310,11 @@
     alt_name: ''
     enabled: true
 -
+    id: macs2
+    name: 'GMACS II Interpreter V1.00'
+    alt_name: 'Modular Adventure Control System'
+    enabled: false
+-
     id: macventure
     name: MacVenture
     alt_name: ''
